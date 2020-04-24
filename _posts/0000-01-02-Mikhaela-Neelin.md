@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my text to commit
+"Love For All, Hatred For None."
